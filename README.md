@@ -6,6 +6,8 @@ This is a repository that holds references and working resources for implementin
   * [PyGLet](https://pyglet.org/)
   * [pygame](https://www.pygame.org/)
 
+  * [bokeh](https://docs.bokeh.org/en/latest/)
+
 # Examples of Interpreters
 
 * [shape machine](https://shape.design.gatech.edu/Machine/index.html)

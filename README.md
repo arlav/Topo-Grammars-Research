@@ -20,11 +20,11 @@ This is a repository that holds references and working resources for implementin
 * Pawels catalogue
 
 
-# Constituents
+# Grammar Components
 
 * shapes dictionary - is a classification possible?
 * rule making
-* rule variation + production
+* rule variation + production of output/variations
 * dataset production? - how would we set it up for a joint, for a space, for an urban block?
 
 

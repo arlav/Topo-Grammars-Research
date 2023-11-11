@@ -28,6 +28,11 @@ This is a repository that holds references and working resources for implementin
 * dataset production? - how would we set it up for a joint, for a space, for an urban block?
 
 
+* check how topologic - ML creates the synthetic dataset ? 
+* how do we set up a set of rules, that use in the core topologic rules, to produce spaces for apartments, 
+* urban blocks?- say for example barcelona -super-blocks? Timber structures? 
+* recheck the Sortal Grammar how they write the rules in python - 
+
 
 
 
